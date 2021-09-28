@@ -1,3 +1,4 @@
 # Data_cleaning_practice
 
-* 練習影片：[連結]("https://www.youtube.com/watch?v=sSnbmbRmtSA&list=WL&index=5")   
+* Simple data cleaning and merging practice from Youtube 
+* 練習影片：[link](https://www.youtube.com/watch?v=sSnbmbRmtSA&list=WL&index=5)   
